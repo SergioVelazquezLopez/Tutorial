@@ -7,5 +7,6 @@ public class Tutorial_Calidad {
 			System.out.println("Commit 3");
 			System.out.println("Commit 5");
 			System.out.println("Commit 8");
+			System.out.println("Commit 10");
 		}
 }
